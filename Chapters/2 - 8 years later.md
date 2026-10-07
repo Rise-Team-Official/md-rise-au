@@ -5,11 +5,13 @@
 — Фридрих Вильгельм Ницше, немецкий философ. Январь, 1889 год.
 
 
-*[ LOCATION: Copper System, Copper-9 planet         ]*
-*[ SECTOR B78: "Forest"                             ]*
-*[ TARGET: Zone "Ark"                               ]*
-*[ STATUS: Snowstorm (level 4)                      ]*
-*[ Time: 3079 year, 23 december, 00:21 (UTC-Copper) ]*
+```sh
+[ LOCATION: Copper System, Copper-9 planet         ]
+[ SECTOR B78: "Forest"                             ]
+[ TARGET: Zone "Ark"                               ]
+[ STATUS: Snowstorm (level 4)                      ]
+[ Time: 3079 year, 23 december, 00:21 (UTC-Copper) ]
+```
 
 
 ---
@@ -51,12 +53,14 @@
 Руки остались на руле. Терминал развернулся сам — в визоре, поверх дороги, поверх крутящегося снега, янтарным текстом по чёрному полю.
 
 
-*[USER@ROSLAVA:~]$ ssh gate07@mil-complex --key ~/.keys/ed25519*
-*[NET] Connecting to gate07.mil-complex:22...*
-*[NET] Handshake: ed25519 ... ok*
-*[NET] Auth: accepted*
-*[GATE07] Link established*
-*[USER@ROSLAVA:~]$ _*
+```bash
+[USER@ROSLAVA:~]$ ssh gate07@mil-complex --key ~/.keys/ed25519
+[NET] Connecting to gate07.mil-complex:22...
+[NET] Handshake: ed25519 ... ok
+[NET] Auth: accepted
+[GATE07] Link established
+[USER@ROSLAVA:~]$ _
+```
 
 
 Створки ворот дрогнули и пползли вверх — медленно, слишком медленно. Рослава видела, как между нижним краем и землёй растёт щель: четверь метра, полметра, метр. Мало, чтобы в него можно было проехать.
@@ -75,20 +79,24 @@
 
 Рослава остановила мотоцикл. Руки остались на руле — терминал развернулся сам.
 
-*[USER@ROSLAVA:~]$ status --gate-07*
-*[GATE07] Status: LOCKED*
-*[GATE07] Power: 87%*
-*[GATE07] Last access: 3d 14h ago*
-*[USER@ROSLAVA:~]$ _*
+```
+[USER@ROSLAVA:~]$ status --gate-07
+[GATE07] Status: LOCKED
+[GATE07] Power: 87%
+[GATE07] Last access: 3d 14h ago
+[USER@ROSLAVA:~]$ _
+```
 
 Она подумала команду.
 
-*[USER@ROSLAVA:~]$ unlock gate07 --hard --quiet*
-*[GATE07] Auth: biometric ... ok*
-*[GATE07] Token: valid*
-*[GATE07] Unlocking...*
-*[GATE07] Unlocked.*
-*[USER@ROSLAVA:~]$ _*
+```sh
+[USER@ROSLAVA:~]$ unlock gate07 --hard --quiet
+[GATE07] Auth: biometric ... ok
+[GATE07] Token: valid
+[GATE07] Unlocking...
+[GATE07] Unlocked.
+[USER@ROSLAVA:~]$ _
+```
 
 Створки дрогнули и разошлись в стороны. Рослава взялась за руль. Мотоцикл тронулся с места — медленно, без рывка — и въехал в темноту.
 

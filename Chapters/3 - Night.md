@@ -390,17 +390,21 @@
 
 Стоило демонтажнице расслабиться, как система начала медленно уходить в спящий режим.
 
-*kernel: ACPI: Preparing to enter sleep state [S3]*
+```sh
+kernel: ACPI: Preparing to enter sleep state [S3]
+```
 
 Последняя строчка логов мигнула перед глазами, и Рослава погрузилась в сон.
 
 ---
 
-*[ LOCATION: Copper System, Copper-9 planet         ]*
-*[ SECTOR A10: "Cabin Fever Labs"                   ]*
-*[ TARGET: RSCH012                                  ]*
-*[ STATUS: Snowstorm (level 5)                      ]*
-*[ Time: 3079 year, 23 december, 05:24 (UTC-Copper) ]*
+```sh
+[ LOCATION: Copper System, Copper-9 planet         ]
+[ SECTOR A10: "Cabin Fever Labs"                   ]
+[ TARGET: RSCH012                                  ]
+[ STATUS: Snowstorm (level 5)                      ]
+[ Time: 3079 year, 23 december, 05:24 (UTC-Copper) ]
+```
 
 Глухие коридоры «Синдрома Хижины» превратились в один бесконечный, кошмарный лабиринт. Молли не видела, _что_ за ней гонится, но инстинкты самосохранения дрона-рабочего внутри неё буквально кричали.
 

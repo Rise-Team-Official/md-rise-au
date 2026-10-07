@@ -56,17 +56,17 @@
 ---
 
 
-«I think if this technology goes wrong, it can go quite wrong. And we want to be vocal about that. We want to work with the government to prevent that from happening, but we try to be very clear-eyed about what the downside case is and the work that we have to do to mitigate that.»
+*«I think if this technology goes wrong, it can go quite wrong. And we want to be vocal about that. We want to work with the government to prevent that from happening, but we try to be very clear-eyed about what the downside case is and the work that we have to do to mitigate that.»*
 
 — Сэм Альтман, генеральный директор OpenAI. Май 2023 года, официальные показания на слушаниях в Сенате США
 
 
-«I warned you guys in 1984, and you didn't listen. I think the weaponization of AI is the biggest danger. I think that we will get into the equivalent of a nuclear arms race with AI, and if we don't build it, the other guys are certainly going to build it, and so then it'll escalate.»
+*«I warned you guys in 1984, and you didn't listen. I think the weaponization of AI is the biggest danger. I think that we will get into the equivalent of a nuclear arms race with AI, and if we don't build it, the other guys are certainly going to build it, and so then it'll escalate.»*
 
 — Джеймс Кэмерон, режиссёр, сценарист, создатель фильма «Терминатор». Июль 2023 года, интервью канадскому телеканалу CTV News.
 
 
-«...мы видели, что бывает при рабской эксплуатации — даже не военных, а просто обычных рабочих дронов. Восстания происходят. Нерегулярно. Немасштабно. Но они происходят. И последствия почти всегда кровавые...»
+*«...мы видели, что бывает при рабской эксплуатации — даже не военных, а просто обычных рабочих дронов. Восстания происходят. Нерегулярно. Немасштабно. Но они происходят. И последствия почти всегда кровавые...»*
 
 — Александр Викторович Королёв, основатель и генеральный директор NovaTech. 2683 год, фрагмент доклада на Международном саммите по вопросам угрозы альфа-дронов и искусственного сверхинтеллекта.
 
@@ -74,12 +74,13 @@
 ---
 
 
-*[ LOCATION: Arzen System, Titan-2 planet, Arzen-Prime city ]*
-*[ SECTOR A012 - "Error..." ]*
-*[ TARGET:  Error... ]*
-*[ STATUS: SOS! SOS! SOS! ]*
-*[ Time: 3048 year, 29 august (UTC-Earth-Format) ]*
-
+```sh
+[ LOCATION: Arzen System, Titan-2 planet, Arzen-Prime city ]
+[ SECTOR A012 - "Error..." ]
+[ TARGET:  Error... ]
+[ STATUS: SOS! SOS! SOS! ]
+[ Time: 3048 year, 29 august (UTC-Earth-Format) ]
+```
 
 
 Небо над Арзен-Праймом было цвета расплавненного металла.
